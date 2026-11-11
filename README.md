@@ -7,3 +7,5 @@ Version 1.0, build 19. Requires iOS/iPadOS 26.2 or later. Provisioning profile e
 Only installation assets are hosted here. Albie source code is maintained in a separate private repository. The IPA is public; installation is limited to devices included in its signed provisioning profile.
 
 Build 19 makes short distances more useful for putting: feet below one yard, and decimal meters below one meter. Tiny positive distances show less than 0.1 rather than zero. Your saved distance preference, recorded measurements and scores are preserved. Update builds 9–18 in place without deleting local data.
+
+Build 20 refreshes the scorecard with a compact summary, course par where available, and putt and penalty counts. The live comparison includes the current hole once it has a stroke, and the scorecard brings the current hole into view. Update builds 9–19 in place without deleting local data.
